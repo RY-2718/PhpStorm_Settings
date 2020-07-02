@@ -7,6 +7,18 @@
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/PHP Console" timestamp="1593659247635">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1593659407655">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
