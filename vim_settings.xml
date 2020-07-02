@@ -4,20 +4,38 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd />
+    </history>
+  </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/PHP Console" timestamp="1593659247635">
+      <file name="/PHP Console" timestamp="1593659782687">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1593660316896">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="/" timestamp="1593659407655">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
   </component>
   <component name="VimSearchSettings">
     <search>
