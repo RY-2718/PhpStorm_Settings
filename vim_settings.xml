@@ -6,13 +6,26 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-cmd />
+      <history-search />
+      <history-cmd>
+        <entry>fw</entry>
+        <entry>w</entry>
+        <entry>qa</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -22,11 +35,29 @@
       <file name="/PHP Console" timestamp="1593659782687">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/docker-compose.yml" timestamp="1593743209217">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="16" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="16" />
+      </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/docker/php/Dockerfile" timestamp="1593743573028">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1593660316896">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="27" />
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="26" />
+      </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1593744500109">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="/" timestamp="1593659407655">
         <mark key="[" line="0" column="0" />
@@ -35,7 +66,20 @@
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSAK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>file</text>
+      </register>
+      <register name=":" type="4">
+        <text>qa</text>
+      </register>
+      <register name="-" type="4">
+        <text>file</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
