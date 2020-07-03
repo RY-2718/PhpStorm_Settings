@@ -9,8 +9,9 @@
       <history-search />
       <history-cmd>
         <entry>fw</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -32,6 +33,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/docker/php/php.ini" timestamp="1593745525316">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1593659782687">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,11 +48,11 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/docker/php/Dockerfile" timestamp="1593743573028">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="32" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/docker/php/Dockerfile" timestamp="1593745807242">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1593660316896">
         <mark key="[" line="29" column="32" />
@@ -68,13 +75,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
+        <text>extensions=redis.so</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text>extensions=redis.so</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>file</text>
-      </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>file</text>
@@ -90,7 +103,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
