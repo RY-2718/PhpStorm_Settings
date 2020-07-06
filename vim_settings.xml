@@ -12,12 +12,15 @@
         <entry>Room</entry>
         <entry>roomId</entry>
         <entry>invite</entry>
+        <entry>send</entry>
+        <entry>accept</entry>
+        <entry>friend</entry>
       </history-search>
       <history-cmd>
         <entry>fw</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -39,6 +42,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
+        <mark key="'" line="99" column="12" />
+      </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1593744500109">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="18" />
@@ -95,6 +101,9 @@
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonController.php" timestamp="1594022940537">
         <mark key="'" line="44" column="5" />
       </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/routes/api.php" timestamp="1594027533925">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="11" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
@@ -118,6 +127,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
       <jump line="153" column="10" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="99" column="12" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/routes/api.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -138,21 +149,21 @@
         <text encoding="base64">ICAgICAgICAgICAgLSAK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>gatRoomId</text>
       </register>
       <register name="/" type="4">
-        <text>invite</text>
+        <text>friend</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>invite</last-search>
+      <last-search>friend</last-search>
       <last-offset />
-      <last-pattern>invite</last-pattern>
+      <last-pattern>friend</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
