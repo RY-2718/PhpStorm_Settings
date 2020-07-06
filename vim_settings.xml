@@ -10,8 +10,8 @@
       <history-cmd>
         <entry>fw</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -87,7 +87,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLSAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>file</text>
