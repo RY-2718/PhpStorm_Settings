@@ -6,7 +6,13 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>invite</entry>
+        <entry>care</entry>
+        <entry>room</entry>
+        <entry>Room</entry>
+        <entry>roomId</entry>
+      </history-search>
       <history-cmd>
         <entry>fw</entry>
         <entry>qa</entry>
@@ -54,6 +60,14 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/database/definitions/MultiDungeonRoom.yml" timestamp="1594022254224">
+        <mark key="'" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" timestamp="1594022328097">
+        <mark key="'" line="65" column="8" />
+        <mark key="]" line="137" column="38" />
+        <mark key="^" line="137" column="9" />
+      </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1593660316896">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="27" />
@@ -70,15 +84,34 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="63" column="11" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="132" column="2" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="145" column="2" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="40" column="4" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/database/definitions/MultiDungeonRoom.yml" />
+      <jump line="4" column="4" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="58" column="6" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="143" column="10" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="56" column="8" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="115" column="10" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="128" column="20" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="129" column="28" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="68" column="8" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="137" column="8" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+      <jump line="65" column="8" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJ1bGVzOgogICAgICAgICAgICByZXF1aXJlZDogIlJvb21JROOCkuOBhOOCjOOBpuOBj+OBoOOBleOBhCIK</text>
+      </register>
       <register name="1" type="2">
         <text>extensions=redis.so</text>
       </register>
       <register name="&quot;" type="2">
-        <text>extensions=redis.so</text>
+        <text encoding="base64">ICAgICAgICAgIHJ1bGVzOgogICAgICAgICAgICByZXF1aXJlZDogIlJvb21JROOCkuOBhOOCjOOBpuOBj+OBoOOBleOBhCIK</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cg==</text>
@@ -90,13 +123,19 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>R</text>
+      </register>
+      <register name="/" type="4">
+        <text>roomId</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>roomId</last-search>
+      <last-offset />
+      <last-pattern>roomId</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
