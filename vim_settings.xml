@@ -15,6 +15,8 @@
         <entry>send</entry>
         <entry>accept</entry>
         <entry>friend</entry>
+        <entry>create</entry>
+        <entry>createRoom</entry>
       </history-search>
       <history-cmd>
         <entry>fw</entry>
@@ -78,8 +80,8 @@
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/database/definitions/MultiDungeonRoom.yml" timestamp="1594022254224">
         <mark key="'" line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonRoomController.php" timestamp="1594024106993">
-        <mark key="'" line="34" column="6" />
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonRoomController.php" timestamp="1594626741376">
+        <mark key="'" line="62" column="54" />
         <mark key="[" line="239" column="28" />
         <mark key="]" line="239" column="39" />
         <mark key="." line="239" column="38" />
@@ -129,6 +131,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" />
       <jump line="99" column="12" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/routes/api.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonRoomController.php" />
+      <jump line="62" column="54" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonRoomController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -155,15 +159,15 @@
         <text>gatRoomId</text>
       </register>
       <register name="/" type="4">
-        <text>friend</text>
+        <text>createRoom</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>friend</last-search>
+      <last-search>createRoom</last-search>
       <last-offset />
-      <last-pattern>friend</last-pattern>
+      <last-pattern>createRoom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
