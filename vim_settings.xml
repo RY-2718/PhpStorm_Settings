@@ -53,11 +53,11 @@
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
         <mark key="'" line="99" column="12" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1593744500109">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1594969370431">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="/" timestamp="1593659407655">
         <mark key="[" line="0" column="0" />
@@ -149,8 +149,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>database</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
@@ -171,7 +171,7 @@
         <text>qa</text>
       </register>
       <register name="-" type="4">
-        <text>gatRoomId</text>
+        <text>database</text>
       </register>
       <register name="/" type="4">
         <text>createRoom</text>
