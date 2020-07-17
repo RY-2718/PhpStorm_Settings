@@ -44,11 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1594956058422">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1594958022715">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
         <mark key="'" line="99" column="12" />
@@ -147,21 +147,24 @@
         <text encoding="base64">ICAgICAgICAgIHJ1bGVzOgogICAgICAgICAgICByZXF1aXJlZDogIlJvb21JROOCkuOBhOOCjOOBpuOBj+OBoOOBleOBhCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text>extensions=redis.so</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
+        <text>extensions=redis.so</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSAK</text>
       </register>
       <register name=":" type="4">
