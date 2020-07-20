@@ -20,8 +20,8 @@
       </history-search>
       <history-cmd>
         <entry>fw</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
@@ -56,11 +56,11 @@
       <file name="/a.dummy" timestamp="1594979487887">
         <mark key="[" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/database/migrations/2020_07_17_183107_modify_timestamps_of_pivot_tables.php" timestamp="1594979776178">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="59" />
-        <mark key="^" line="39" column="59" />
-        <mark key="." line="39" column="58" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/database/migrations/2020_07_17_183107_modify_timestamps_of_pivot_tables.php" timestamp="1594979839644">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="68" />
+        <mark key="^" line="35" column="68" />
+        <mark key="." line="35" column="67" />
       </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
         <mark key="'" line="99" column="12" />
