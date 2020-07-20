@@ -17,12 +17,16 @@
         <entry>friend</entry>
         <entry>create</entry>
         <entry>createRoom</entry>
+        <entry>sync</entry>
+        <entry>team</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>fw</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -67,11 +71,12 @@
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
         <mark key="'" line="99" column="12" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" timestamp="1595212582086">
-        <mark key="[" line="55" column="93" />
-        <mark key="]" line="55" column="94" />
-        <mark key="^" line="55" column="94" />
-        <mark key="." line="55" column="93" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" timestamp="1595213463000">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="106" column="67" />
+        <mark key="]" line="106" column="68" />
+        <mark key="^" line="106" column="68" />
+        <mark key="." line="106" column="67" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1594969370431">
         <mark key="[" line="11" column="12" />
@@ -126,7 +131,8 @@
         <mark key="^" line="137" column="14" />
         <mark key="." line="139" column="24" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1593660316896">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1595213181274">
+        <mark key="'" line="44" column="44" />
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="27" />
         <mark key="^" line="29" column="27" />
@@ -165,18 +171,34 @@
       <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/routes/api.php" />
       <jump line="0" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonRoomController.php" />
       <jump line="62" column="54" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/app/Http/Controllers/Api/MultiDungeonRoomController.php" />
+      <jump line="28" column="14" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="219" column="13" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="223" column="9" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="224" column="40" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="230" column="23" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="231" column="13" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="234" column="9" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="235" column="40" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="29" column="65" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="41" column="25" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="44" column="44" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" />
+      <jump line="106" column="74" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" />
+      <jump line="19" column="46" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" />
+      <jump line="55" column="70" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" />
+      <jump line="67" column="21" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" />
+      <jump line="50" column="4" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>createRoom</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdjcmVhdGVkX2F0Jyk7Cg==</text>
@@ -209,15 +231,15 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>createRoom</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>createRoom</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
