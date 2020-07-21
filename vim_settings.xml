@@ -59,8 +59,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" timestamp="1595314217703">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" timestamp="1595315188181">
         <mark key="'" line="12" column="10" />
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="72" column="9" />
+        <mark key="^" line="72" column="9" />
+        <mark key="." line="72" column="8" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Logging/CreateStackdriverLogger.php" timestamp="1595303748315">
         <mark key="[" line="0" column="5" />
@@ -137,6 +141,12 @@
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/routes/api.php" timestamp="1594027533925">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" timestamp="1595315014124">
+        <mark key="[" line="178" column="8" />
+        <mark key="]" line="178" column="8" />
+        <mark key="^" line="178" column="8" />
+        <mark key="." line="178" column="7" />
+      </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
         <mark key="'" line="99" column="12" />
       </file>
@@ -161,13 +171,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/MultiDungeonRoom.yml" timestamp="1594024029491">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="139" column="24" />
-        <mark key="]" line="139" column="24" />
-        <mark key="^" line="137" column="14" />
-        <mark key="." line="139" column="24" />
       </file>
     </filemarks>
     <jumps>
