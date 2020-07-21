@@ -116,11 +116,11 @@
         <mark key="^" line="35" column="68" />
         <mark key="." line="35" column="67" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/php.ini" timestamp="1595316640481">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="15" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/php.ini" timestamp="1595317913133">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1595316305800">
         <mark key="[" line="4" column="0" />
@@ -235,8 +235,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>memcached</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXh0ZW5zaW9uPXJlZGlzLnNvCg==</text>
       </register>
       <register name="-" type="4">
         <text>memcached</text>
@@ -248,31 +248,31 @@
         <text encoding="base64">QVBQX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gTGFyYXZlbCBJREUgaGVscGVyCi8vICAgICAgICAnQmFycnl2ZGhcTGFyYXZlbElkZUhlbHBlclxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXInLAo=</text>
+        <text encoding="base64">ZXh0ZW5zaW9uPXJlZGlzLnNvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzc2V0KCRfU0VSVkVSWydHQUVfU0VSVklDRSddKSkKICAgICAgICBwYXJlbnQ6OnJlcG9ydCgkZXhjZXB0aW9uKTsK</text>
+        <text encoding="base64">CiAgICAgICAgLy8gTGFyYXZlbCBJREUgaGVscGVyCi8vICAgICAgICAnQmFycnl2ZGhcTGFyYXZlbElkZUhlbHBlclxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXInLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBEQl9IT1NUOiBsb2NhbGhvc3QKICBEQl9QT1JUOiAzMzA2Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNzc2V0KCRfU0VSVkVSWydHQUVfU0VSVklDRSddKSkKICAgICAgICBwYXJlbnQ6OnJlcG9ydCgkZXhjZXB0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEdvb2dsZVxDbG91ZAo=</text>
+        <text encoding="base64">ICBEQl9IT1NUOiBsb2NhbGhvc3QKICBEQl9QT1JUOiAzMzA2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhlIGZvbGxvd2luZyBsaW5lcyB0byBpbnRlZ3JhdGUgd2l0aCBTdGFja2RyaXZlcjoK</text>
+        <text encoding="base64">dXNlIEdvb2dsZVxDbG91ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhlIGZvbGxvd2luZyBsaW5lcyB0byBpbnRlZ3JhdGUgd2l0aCBTdGFja2RyaXZlcjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBSRURJU19QQVNTV09SRDogbnVsbAo=</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTRVNTSU9OX0RSSVZFUjogcmVkaXMK</text>
+        <text encoding="base64">ICBSRURJU19QQVNTV09SRDogbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTRVNTSU9OX0RSSVZFUjogcmVkaXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
