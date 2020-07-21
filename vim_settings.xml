@@ -60,12 +60,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" timestamp="1595315188181">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" timestamp="1595321529945">
         <mark key="'" line="12" column="10" />
-        <mark key="[" line="68" column="9" />
-        <mark key="]" line="72" column="9" />
-        <mark key="^" line="72" column="9" />
-        <mark key="." line="72" column="8" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Logging/CreateStackdriverLogger.php" timestamp="1595303748315">
         <mark key="[" line="0" column="5" />
@@ -79,11 +79,11 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595318563887">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595320764787">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="13" />
+        <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Member.php" timestamp="1595217768745">
