@@ -60,12 +60,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" timestamp="1595321529945">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" timestamp="1595325373368">
         <mark key="'" line="12" column="10" />
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="23" />
+        <mark key="[" line="71" column="35" />
+        <mark key="]" line="71" column="37" />
+        <mark key="^" line="71" column="37" />
+        <mark key="." line="71" column="36" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Logging/CreateStackdriverLogger.php" timestamp="1595303748315">
         <mark key="[" line="0" column="5" />
