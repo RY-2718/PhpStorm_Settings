@@ -26,9 +26,10 @@
         <entry>fw</entry>
         <entry>noh</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>208</entry>
+        <entry>'s,'ey</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -78,12 +79,12 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595314279984">
-        <mark key="'" line="18" column="19" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595316431398">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="66" />
+        <mark key="." line="16" column="65" />
+        <mark key="^" line="16" column="66" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Member.php" timestamp="1595217768745">
         <mark key="[" line="54" column="104" />
@@ -115,11 +116,25 @@
         <mark key="^" line="35" column="68" />
         <mark key="." line="35" column="67" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1595313855840">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="20" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/php.ini" timestamp="1595316274394">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1595316305800">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="29" />
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/docker/php/php.ini" timestamp="1595316240785">
+        <mark key="s" line="0" column="5" />
+        <mark key="e" line="4" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1595214256907">
         <mark key="[" line="0" column="0" />
@@ -138,17 +153,10 @@
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/routes/api.php" timestamp="1594027533925">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" timestamp="1595315014124">
-        <mark key="[" line="178" column="8" />
-        <mark key="]" line="178" column="8" />
-        <mark key="^" line="178" column="8" />
-        <mark key="." line="178" column="7" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo/resources/http/controllers/Api/Friend.yml" timestamp="1594027140018">
-        <mark key="'" line="99" column="12" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" timestamp="1595316281318">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Team.php" timestamp="1595217744996">
         <mark key="'" line="50" column="4" />
@@ -222,51 +230,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/_ide_helper.php" />
       <jump line="18595" column="0" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/_ide_helper.php" />
       <jump line="16" column="19" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" />
+      <jump line="20" column="18" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VTU0lPTl9MSUZFVElNRT0xMjAK</text>
+      <register name="&quot;" type="4">
+        <text>http://localhost:8000</text>
       </register>
       <register name="-" type="4">
-        <text>xxxxxxxxxxxxxxxxx</text>
+        <text>http://localhost:8000</text>
       </register>
       <register name="/" type="4">
         <text>ide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VTU0lPTl9MSUZFVElNRT0xMjAK</text>
+        <text encoding="base64">QVBQX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzc2V0KCRfU0VSVkVSWydHQUVfU0VSVklDRSddKSkKICAgICAgICBwYXJlbnQ6OnJlcG9ydCgkZXhjZXB0aW9uKTsK</text>
+        <text encoding="base64">CiAgICAgICAgLy8gTGFyYXZlbCBJREUgaGVscGVyCi8vICAgICAgICAnQmFycnl2ZGhcTGFyYXZlbElkZUhlbHBlclxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXInLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBEQl9IT1NUOiBsb2NhbGhvc3QKICBEQl9QT1JUOiAzMzA2Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNzc2V0KCRfU0VSVkVSWydHQUVfU0VSVklDRSddKSkKICAgICAgICBwYXJlbnQ6OnJlcG9ydCgkZXhjZXB0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEdvb2dsZVxDbG91ZAo=</text>
+        <text encoding="base64">ICBEQl9IT1NUOiBsb2NhbGhvc3QKICBEQl9QT1JUOiAzMzA2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhlIGZvbGxvd2luZyBsaW5lcyB0byBpbnRlZ3JhdGUgd2l0aCBTdGFja2RyaXZlcjoK</text>
+        <text encoding="base64">dXNlIEdvb2dsZVxDbG91ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhlIGZvbGxvd2luZyBsaW5lcyB0byBpbnRlZ3JhdGUgd2l0aCBTdGFja2RyaXZlcjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBSRURJU19QQVNTV09SRDogbnVsbAo=</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTRVNTSU9OX0RSSVZFUjogcmVkaXMK</text>
+        <text encoding="base64">ICBSRURJU19QQVNTV09SRDogbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTRVNTSU9OX0RSSVZFUjogcmVkaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2NyZWF0ZWRfYXQnKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3VwZGF0ZWRfYXQnKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
