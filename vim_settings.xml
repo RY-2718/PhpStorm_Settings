@@ -23,10 +23,10 @@
       </history-search>
       <history-cmd>
         <entry>fw</entry>
-        <entry>qa</entry>
         <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -251,7 +251,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
