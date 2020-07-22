@@ -78,10 +78,10 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595327368552">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595386395594">
         <mark key="'" line="21" column="18" />
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="30" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="31" column="86" />
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="30" />
       </file>
@@ -223,8 +223,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW52X3ZhcmlhYmxlczoKICBBUFBfTkFNRTog44G/44KT44Gq44Gu5LqI5a6a44G/44GI44KL44KTCiAgQVBQX0VOVjogcHJvZHVjdGlvbgogIEFQUF9LRVk6IGJhc2U2NDpCQWFqUFlMTEFjTEdBVmJMWUlnYjA3d1VXUFVTYlliNlpGMUpCTkJ3OGFvPQogIEFQUF9MT0c6IGVycm9ybG9nCiAgQVBQX1VSTDogaHR0cHM6Ly9taWVydW4tZG90LWx1bmFyLXBsYW5ldC0yODI1MTAuYW4uci5hcHBzcG90LmNvbQogIEFQUF9TVE9SQUdFOiAvdG1wCiAgVklFV19DT01QSUxFRF9QQVRIOiAvdG1wCiAgU0VTU0lPTl9EUklWRVI6IHJlZGlzCiAgU0VTU0lPTl9MSUZFVElNRTogMTIwCiAgREJfQ09OTkVDVElPTjogbXlzcWwKICBEQl9VU0VSTkFNRTogY29sb3BsLXJ3CiAgREJfUEFTU1dPUkQ6IFJ3clVWWDNSY3ZjCiAgREJfU09DS0VUOiAvY2xvdWRzcWwvbHVuYXItcGxhbmV0LTI4MjUxMDphc2lhLW5vcnRoZWFzdDE6Z2NwLW5ld2dyYWQtY2xvdWQtc3FsLW15c3FsCiAgQ0FDSEVfRFJJVkVSOiByZWRpcwogIFJFRElTX0hPU1Q6ICIxMC4xNzguMTA2LjEzOSIKICBSRURJU19QT1JUOiA2Mzc5CiAgUkVESVNfUFJFRklYOiBtaWVydW4KICBMT0dfQ0hBTk5FTDogc3RhY2tkcml2ZXIKYmV0YV9zZXR0aW5nczoKICBjbG91ZF9zcWxfaW5zdGFuY2VzOiBsdW5hci1wbGFuZXQtMjgyNTEwOmFzaWEtbm9ydGhlYXN0MTpnY3AtbmV3Z3JhZC1jbG91ZC1zcWwtbXlzcWwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -233,7 +233,7 @@
         <text>ide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVBQX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwMDAK</text>
+        <text encoding="base64">ZW52X3ZhcmlhYmxlczoKICBBUFBfTkFNRTog44G/44KT44Gq44Gu5LqI5a6a44G/44GI44KL44KTCiAgQVBQX0VOVjogcHJvZHVjdGlvbgogIEFQUF9LRVk6IGJhc2U2NDpCQWFqUFlMTEFjTEdBVmJMWUlnYjA3d1VXUFVTYlliNlpGMUpCTkJ3OGFvPQogIEFQUF9MT0c6IGVycm9ybG9nCiAgQVBQX1VSTDogaHR0cHM6Ly9taWVydW4tZG90LWx1bmFyLXBsYW5ldC0yODI1MTAuYW4uci5hcHBzcG90LmNvbQogIEFQUF9TVE9SQUdFOiAvdG1wCiAgVklFV19DT01QSUxFRF9QQVRIOiAvdG1wCiAgU0VTU0lPTl9EUklWRVI6IHJlZGlzCiAgU0VTU0lPTl9MSUZFVElNRTogMTIwCiAgREJfQ09OTkVDVElPTjogbXlzcWwKICBEQl9VU0VSTkFNRTogY29sb3BsLXJ3CiAgREJfUEFTU1dPUkQ6IFJ3clVWWDNSY3ZjCiAgREJfU09DS0VUOiAvY2xvdWRzcWwvbHVuYXItcGxhbmV0LTI4MjUxMDphc2lhLW5vcnRoZWFzdDE6Z2NwLW5ld2dyYWQtY2xvdWQtc3FsLW15c3FsCiAgQ0FDSEVfRFJJVkVSOiByZWRpcwogIFJFRElTX0hPU1Q6ICIxMC4xNzguMTA2LjEzOSIKICBSRURJU19QT1JUOiA2Mzc5CiAgUkVESVNfUFJFRklYOiBtaWVydW4KICBMT0dfQ0hBTk5FTDogc3RhY2tkcml2ZXIKYmV0YV9zZXR0aW5nczoKICBjbG91ZF9zcWxfaW5zdGFuY2VzOiBsdW5hci1wbGFuZXQtMjgyNTEwOmFzaWEtbm9ydGhlYXN0MTpnY3AtbmV3Z3JhZC1jbG91ZC1zcWwtbXlzcWwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAicG9zdC1pbnN0YWxsLWNtZCI6IFsKICAgICAgICAgICAgImNobW9kIC1SIDc1NSBib290c3RyYXBcL2NhY2hlIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGNhY2hlOmNsZWFyIgogICAgICAgIF0K</text>
