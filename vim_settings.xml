@@ -25,11 +25,11 @@
       <history-cmd>
         <entry>fw</entry>
         <entry>noh</entry>
-        <entry>qa</entry>
         <entry>208</entry>
         <entry>'s,'ey</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -78,11 +78,11 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595395859902">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="31" column="86" />
-        <mark key="." line="26" column="29" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595397458701">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Member.php" timestamp="1595217768745">
@@ -109,7 +109,7 @@
         <mark key="^" line="106" column="10" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/php.ini" timestamp="1595388747635">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/php.ini" timestamp="1595396275049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="10" />
@@ -140,7 +140,8 @@
         <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/routes/api.php" timestamp="1595327213577" />
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" timestamp="1595316281318">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" timestamp="1595397469963">
+        <mark key="'" line="174" column="0" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
@@ -217,17 +218,18 @@
       <jump line="12" column="10" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/composer.json" />
       <jump line="0" column="0" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/_ide_helper.php" />
       <jump line="18595" column="0" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/_ide_helper.php" />
-      <jump line="16" column="19" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" />
       <jump line="20" column="18" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" />
+      <jump line="16" column="27" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" />
+      <jump line="174" column="0" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ide</text>
@@ -263,7 +265,7 @@
         <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhlIGZvbGxvd2luZyBsaW5lcyB0byBpbnRlZ3JhdGUgd2l0aCBTdGFja2RyaXZlcjoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
