@@ -27,9 +27,9 @@
         <entry>noh</entry>
         <entry>208</entry>
         <entry>'s,'ey</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,6 +115,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/ditpatch.yaml" timestamp="1595908506239">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" timestamp="1595901434178">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="50" column="63" />
@@ -161,12 +167,6 @@
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/_ide_helper.php" timestamp="1595314258905">
         <mark key="'" line="18595" column="0" />
-      </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/database/migrations/2020_07_17_183107_add_timestamps_to_team_user_teable.php" timestamp="1595211234545">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/routes/channels.php" timestamp="1595327221971" />
     </filemarks>
@@ -267,7 +267,7 @@
         <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhlIGZvbGxvd2luZyBsaW5lcyB0byBpbnRlZ3JhdGUgd2l0aCBTdGFja2RyaXZlcjoK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
