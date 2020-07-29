@@ -30,8 +30,9 @@
         <entry>'s,'ey</entry>
         <entry>qa</entry>
         <entry>31</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>24</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -57,6 +58,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -80,11 +87,14 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595987857330">
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php" timestamp="1595989392143">
+        <mark key="'" line="114" column="20" />
+      </file>
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" timestamp="1595989572639">
         <mark key="'" line="25" column="5" />
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="10" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Member.php" timestamp="1595217768745">
@@ -136,13 +146,6 @@
       <file name="/PHP Console" timestamp="1595214256907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app/Http/Controllers/TeamsController.php" timestamp="1595213181274">
-        <mark key="'" line="44" column="44" />
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="26" />
-      </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/routes/api.php" timestamp="1595327213577" />
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/config/app.php" timestamp="1595397469963">
         <mark key="'" line="174" column="0" />
@@ -166,10 +169,11 @@
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/_ide_helper.php" timestamp="1595314258905">
         <mark key="'" line="18595" column="0" />
       </file>
-      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/resources/views/auth/login.blade.php" timestamp="1595988007246">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/resources/views/auth/login.blade.php" timestamp="1595988741572">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="48" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="48" />
       </file>
       <file name="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/routes/channels.php" timestamp="1595327221971" />
     </filemarks>
@@ -229,12 +233,13 @@
       <jump line="52" column="0" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" />
       <jump line="25" column="5" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/app.yaml" />
       <jump line="11" column="3" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/.env" />
+      <jump line="114" column="20" filename="$USER_HOME$/ghq/git.bootcamp.colopl.jp/server/yoshitani-ryo/src/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAgfX0K</text>
+        <text encoding="base64">ICBEQl9IT1NUOiAiIgogIERCX1BPUlQ6ICIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>develop</text>
@@ -246,34 +251,34 @@
         <text>lunar-planet-282510:asia-northeast1:gcp-newgrad-cloud-sql-mysql</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAgfX0K</text>
+        <text encoding="base64">ICBEQl9IT1NUOiAiIgogIERCX1BPUlQ6ICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBNWVNRTF9VU0VSOiBjb2xvcGwtcncKICBNWVNRTF9QQVNTV09SRDogUndyVVZYM1JjdmMKICBNWVNRTF9EU046IG15c3FsOmRibmFtZT1taWVydW47dW5peF9zb2NrZXQ9L2Nsb3Vkc3FsL2x1bmFyLXBsYW5ldC0yODI1MTA6YXNpYS1ub3J0aGVhc3QxOmdjcC1uZXdncmFkLWNsb3VkLXNxbC1teXNxbAo=</text>
+        <text encoding="base64">ICAgICAgICB7eyAgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBEQl9IT1NUOiBsb2NhbGhvc3QK</text>
+        <text encoding="base64">ICBNWVNRTF9VU0VSOiBjb2xvcGwtcncKICBNWVNRTF9QQVNTV09SRDogUndyVVZYM1JjdmMKICBNWVNRTF9EU046IG15c3FsOmRibmFtZT1taWVydW47dW5peF9zb2NrZXQ9L2Nsb3Vkc3FsL2x1bmFyLXBsYW5ldC0yODI1MTA6YXNpYS1ub3J0aGVhc3QxOmdjcC1uZXdncmFkLWNsb3VkLXNxbC1teXNxbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBEQl9QT1JUOiAzMzA2Cg==</text>
+        <text encoding="base64">ICBEQl9IT1NUOiBsb2NhbGhvc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiZXh0LXJlZGlzIjogIioiCg==</text>
+        <text encoding="base64">ICBEQl9QT1JUOiAzMzA2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicG9zdC1pbnN0YWxsLWNtZCI6IFsKICAgICAgICAgICAgImNobW9kIC1SIDc1NSBib290c3RyYXBcL2NhY2hlIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGNhY2hlOmNsZWFyIgogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAiZXh0LXJlZGlzIjogIioiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNhY2hlOmNsZWFyIgo=</text>
+        <text encoding="base64">ICAgICAgICAicG9zdC1pbnN0YWxsLWNtZCI6IFsKICAgICAgICAgICAgImNobW9kIC1SIDc1NSBib290c3RyYXBcL2NhY2hlIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGNhY2hlOmNsZWFyIgogICAgICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXh0ZW5zaW9uPXJlZGlzLnNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNhY2hlOmNsZWFyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gTGFyYXZlbCBJREUgaGVscGVyCi8vICAgICAgICAnQmFycnl2ZGhcTGFyYXZlbElkZUhlbHBlclxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXInLAo=</text>
+        <text encoding="base64">ZXh0ZW5zaW9uPXJlZGlzLnNvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>24</text>
       </register>
     </registers>
   </component>
